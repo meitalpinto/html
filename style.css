@@ -1,0 +1,44 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+  width: 347px;
+    
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+ 
+}
+
+#headerstyle {
+	padding: 50px;
+  text-align: center;
+  background: #008080;
+  color: white;
+  font-size: 50px;
+   font-family:Cursive;
+  font-style:Lucida Handwriting;
+}
+
+div {
+  margin: 120px;
+   
+}
+
+p{
+	 font-family:Cursive;
+  font-style:Lucida Handwriting;
+	font-size: 18px;
+	
+}
+
+#headerstyle2 {
+  font-size: 27px;
+  color: #009999;
+  line-height: 30px;
+  text-align: left;
+  font-family:Cursive;
+  font-style:Lucida Handwriting;
+
+}
