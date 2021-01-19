@@ -19,12 +19,12 @@ img:hover {
   font-size: 50px;
    font-family:Cursive;
   font-style:Lucida Handwriting;
+  font-size:8vw
 }
 
 div {
   margin: 120px;
    text-align: justify;
-   font-size:2vw;
    
 }
 
@@ -32,6 +32,7 @@ p{
 	 font-family:Cursive;
   font-style:Lucida Handwriting;
 	font-size: 18px;
+	font-size:5vw;
 	
 }
 
@@ -42,6 +43,7 @@ p{
   text-align: left;
   font-family:Cursive;
   font-style:Lucida Handwriting;
+  font-size:6.5vw
 
 }
 
